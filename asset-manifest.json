@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactsmallapp/static/css/main.073c9b0a.css",
+    "main.js": "/reactsmallapp/static/js/main.e2783191.js",
+    "static/js/787.ec78c698.chunk.js": "/reactsmallapp/static/js/787.ec78c698.chunk.js",
+    "static/media/logo.svg": "/reactsmallapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactsmallapp/index.html",
+    "main.073c9b0a.css.map": "/reactsmallapp/static/css/main.073c9b0a.css.map",
+    "main.e2783191.js.map": "/reactsmallapp/static/js/main.e2783191.js.map",
+    "787.ec78c698.chunk.js.map": "/reactsmallapp/static/js/787.ec78c698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e2783191.js"
+  ]
+}
